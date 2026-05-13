@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <defs>
+    <linearGradient id="g9" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fecdd3"/>
+      <stop offset="1" stop-color="#fdf2f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" rx="22" fill="url(#g9)"/>
+  <rect x="70" y="110" width="460" height="230" rx="18" fill="#ffffff" stroke="#e5e7eb"/>
+  <circle cx="300" cy="210" r="86" fill="#ffe4e6" stroke="#fecdd3"/>
+  <rect x="210" y="305" width="180" height="18" rx="9" fill="#e5e7eb"/>
+  <text x="300" y="365" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="700" fill="#9f1239">PRODUCT 09</text>
+</svg>

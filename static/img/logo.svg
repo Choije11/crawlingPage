@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+  <rect width="220" height="60" rx="12" fill="#15161d"/>
+  <rect x="10" y="10" width="40" height="40" rx="10" fill="#d10024"/>
+  <path d="M24 22h12v16H24z" fill="#fff" opacity="0.9"/>
+  <path d="M30 20l10 10-10 10z" fill="#fff"/>
+  <text x="62" y="38" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Electro</text>
+</svg>
